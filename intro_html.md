@@ -81,7 +81,7 @@ Es tracta d'un llenguatge que serveix per definir documents sense definir la sev
   
   ### Paràgrafs:
   
-  Els tags de paràgraf identifiquen paràgrafs de text, son p.
+  Els tags de paràgraf identifiquen paràgrafs de text, són p.
   
   ### Links:
   
