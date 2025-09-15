@@ -118,6 +118,29 @@ Es tracta d'un llenguatge que serveix per definir documents sense definir la sev
 - sub: Subíndex.
 - sup: Súperíndex.
 
+
+### Llistes.
+
+Hi ha dos tipus de llistes, ordenades i desordenades.
+
+Les desordenades utilitzen els tags ul (unordered list) i li (list item).
+
+```
+<ul>
+  <li>Element1</li>
+  <li>Element2</li>  
+</ul>
+```
+
+Les ordenades utilitzen els tags ol (ordered list) i li (list item).
+
+```
+<ol>
+  <li>Element1</li>
+  <li>Element2</li>  
+</ol>
+```
+
 ### Comentaris:
 
 Es pot comentar el text HTML (línies que no executa el navegador), amb el tag !
@@ -168,27 +191,7 @@ Exemple amb headers i columnes que ocupen més d'una columna.
 </table>
 ```
 
-### Llistes.
 
-Hi ha dos tipus de llistes, ordenades i desordenades.
-
-Les desordenades utilitzen els tags ul (unordered list) i li (list item).
-
-```
-<ul>
-  <li>Element1</li>
-  <li>Element2</li>  
-</ul>
-```
-
-Les ordenades utilitzen els tags ol (ordered list) i li (list item).
-
-```
-<ol>
-  <li>Element1</li>
-  <li>Element2</li>  
-</ol>
-```
 
 Activitats:
 
