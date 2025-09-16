@@ -92,7 +92,7 @@ Es tracta d'un llenguatge que serveix per definir documents sense definir la sev
   ```
   Es pot fer servir l'atribut target que diu on s'obrirà el vincle, per exemple target="_blank" obrirà el vincle en una pàgina nova, mentre que target="_self" l'obrirà a la mateixa.
   
-  ### Images:
+  ### Imatges:
   
   El tag img serveix per incrustar imatges al web, per exemple: 
   
