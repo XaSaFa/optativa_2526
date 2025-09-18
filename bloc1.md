@@ -13,6 +13,10 @@ sudo dpkg -i nomdelfitxer
 
 Ara per arrencar el programa obrim un terminal i escrivim **code** o a Aplicacions busquem **code**.
 
+## Recursos
+
+- [Web W3 Schools amb exemples](https://www.w3schools.com/)
+
 
 ## HTML
 
