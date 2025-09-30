@@ -1,5 +1,7 @@
 # Llistes fetes a classe (23-09-25):
 
+Feu tres documents anomenats "llista11.html", "llista2.html" i "llista3.html" cada un contindrà una de les següents llistes:
+
 - Llista desordenada
 
 <img width="597" height="773" alt="image" src="https://github.com/user-attachments/assets/0da22d02-69a7-45d6-b0e4-e74469fd82f2" />
