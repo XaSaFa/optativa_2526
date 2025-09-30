@@ -21,6 +21,7 @@ Ara per arrencar el programa obrim un terminal i escrivim **code** o a Aplicacio
 ## HTML
 
 - [Introducció a HTML](intro_html.md)
+  - [Codi per ficar vora a les taules](boder.md)
   - [Activitats inicials](a1.md)
 - [Links](links.md)
 - [Imatges](img.md)
