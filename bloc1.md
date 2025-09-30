@@ -22,10 +22,14 @@ Ara per arrencar el programa obrim un terminal i escrivim **code** o a Aplicacio
 
 - [Introducció a HTML](intro_html.md)
   - [Codi per ficar vora a les taules](border.md)
-  - [Activitats inicials](a1.md)
 - [Links](links.md)
 - [Imatges](img.md)
 - [Mapa d'imatges](map.md)
-  - [Activitat mapa d'imatges](activitat_mapa.md)
+ 
+
+ 
+## Activitats
+- [Activitats inicials](a1.md)
+- [Activitat mapa d'imatges](activitat_mapa.md)
 - Llistes
   - [Llistes grup B](llistesb.md)
