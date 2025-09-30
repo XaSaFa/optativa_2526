@@ -33,3 +33,4 @@ Ara per arrencar el programa obrim un terminal i escrivim **code** o a Aplicacio
 - [Activitat mapa d'imatges](activitat_mapa.md)
 - Llistes
   - [Llistes grup B](llistesb.md)
+- [Currículum](cv.md)
