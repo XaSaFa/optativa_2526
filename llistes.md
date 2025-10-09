@@ -140,7 +140,10 @@ Exemple:
 
 ## Practicar:
 
-[Fes aquests exercicis](https://www.w3schools.com/html/exercise.asp?filename=exercise_html_lists1)
+Fes aquesta llista.
+
+<img width="309" height="322" alt="image" src="https://github.com/user-attachments/assets/0bb33fd8-ae45-4d74-af5c-5a238b4bd1a6" />
+
 
 
 
