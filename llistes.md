@@ -144,6 +144,10 @@ Fes aquesta llista.
 
 <img width="309" height="322" alt="image" src="https://github.com/user-attachments/assets/0bb33fd8-ae45-4d74-af5c-5a238b4bd1a6" />
 
+Quan acabis fes aquesta llista:
+
+<img width="344" height="415" alt="image" src="https://github.com/user-attachments/assets/c508839c-6ca7-44d7-9a32-4b88753266ad" />
+
 
 
 
