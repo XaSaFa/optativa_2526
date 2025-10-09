@@ -144,47 +144,7 @@ Fes aquesta llista.
 
 <img width="309" height="322" alt="image" src="https://github.com/user-attachments/assets/0bb33fd8-ae45-4d74-af5c-5a238b4bd1a6" />
 
-```
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-    <h1>List Example</h1>
-    <ol type="I">
-        <li>List item 1</li>
-        <ol type="a">
-            <li>Nested item 1.1</li>
-            <li>Nested item 1.2</li>
-        </ol>
-        <li>List item 2</li>
-        <ol type="1">
-            <li>Nested item 2.1</li>
-            <li>Nested item 2.2</li>
-            <ul type="circle">
-                <li>Nested item 2.2.1</li>
-                <li>Nested item 2.2.2</li>
-                <ul type="square">
-                    <li>Nested item 2.2.2.1</li>
-                    <li>Nested item 2.2.2.2</li>
-                </ul>
-                <li>Nested item 2.2.3</li>
-            </ul>
-            <li>Nested item 2.3</li>
-        </ol>
-        <li>List item 3</li>
-        <ul type="disc">
-            <li>Nested item 3.1</li>
-            <li>Nested item 3.2</li>
-            <li>Nested item 3.3</li>
-        </ul>
-    </ol>
-</body>
-</html>
-```
+
 
 Quan acabis fes aquesta llista:
 
