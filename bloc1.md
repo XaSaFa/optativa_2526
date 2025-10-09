@@ -25,7 +25,7 @@ Ara per arrencar el programa obrim un terminal i escrivim **code** o a Aplicacio
 - [Links](links.md)
 - [Imatges](img.md)
 - [Mapa d'imatges](map.md)
-- [Llistes (avançat](llistes.md)
+- [Llistes (avançades)](llistes.md)
  
 
  
