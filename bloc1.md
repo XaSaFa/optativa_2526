@@ -26,6 +26,7 @@ Ara per arrencar el programa obrim un terminal i escrivim **code** o a Aplicacio
 - [Imatges](img.md)
 - [Mapa d'imatges](map.md)
 - [Llistes (avançades)](llistes.md)
+- [formularis](forms.md)
  
 
  
@@ -35,3 +36,4 @@ Ara per arrencar el programa obrim un terminal i escrivim **code** o a Aplicacio
 - Llistes
   - [Llistes grup B](llistesb.md)
 - [Currículum](cv.md)
+- [Activitat de formularis](activitat_formularis_1.md)
