@@ -31,9 +31,9 @@ Ara per arrencar el programa obrim un terminal i escrivim **code** o a Aplicacio
 
 ## CSS
 - [Colors](colors.md)
+  - [Activitat colors](activitat_colors.md)
  
 
- 
 ## Activitats
 - [Activitats inicials](a1.md)
 - [Activitat mapa d'imatges](activitat_mapa.md)
@@ -42,5 +42,5 @@ Ara per arrencar el programa obrim un terminal i escrivim **code** o a Aplicacio
 - [Currículum](cv.md)
 - [Activitat de formularis](activitat_formularis_1.md)
 - [Activitat multimedia](activitat_multimedia1.md)
-- [Activitat colors](activitat_colors.md)
+
 
