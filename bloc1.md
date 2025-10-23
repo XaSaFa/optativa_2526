@@ -28,6 +28,9 @@ Ara per arrencar el programa obrim un terminal i escrivim **code** o a Aplicacio
 - [Llistes (avançades)](llistes.md)
 - [formularis](forms.md)
 - [Audio, video i multimedia](multimedia.md)
+
+## CSS
+- [Colors](colors.md)
  
 
  
