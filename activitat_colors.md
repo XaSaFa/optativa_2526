@@ -10,7 +10,7 @@ El pati, hores i dies de la setmana tindran un color de fons **definit per nom**
 
 # 2 Buscar colors
 
-Busca una imatge per internet que tingui diferents colors i, utilitzant una eina com GIMP o un altre editor gràfic, senyala i identifica cinc colors diferents en format #RRGGBB.
+Busca una imatge per internet que tingui diferents colors i, utilitzant una eina com GIMP o un altre editor gràfic, senyala i **identifica cinc colors diferents** en format #RRGGBB.
 
 Exemple:
 
