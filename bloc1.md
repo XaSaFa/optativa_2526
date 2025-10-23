@@ -31,6 +31,7 @@ Ara per arrencar el programa obrim un terminal i escrivim **code** o a Aplicacio
   - [Activitat multimedia](activitat_multimedia1.md)
 
 ## CSS
+- [Inserir CSS a una pàgina web](inserir_css.md)
 - [Colors](colors.md)
   - [Activitat colors](activitat_colors.md)
  
