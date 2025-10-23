@@ -28,6 +28,7 @@ Ara per arrencar el programa obrim un terminal i escrivim **code** o a Aplicacio
 - [Llistes (avançades)](llistes.md)
 - [formularis](forms.md)
 - [Audio, video i multimedia](multimedia.md)
+  - [Activitat multimedia](activitat_multimedia1.md)
 
 ## CSS
 - [Colors](colors.md)
@@ -41,6 +42,6 @@ Ara per arrencar el programa obrim un terminal i escrivim **code** o a Aplicacio
   - [Llistes grup B](llistesb.md)
 - [Currículum](cv.md)
 - [Activitat de formularis](activitat_formularis_1.md)
-- [Activitat multimedia](activitat_multimedia1.md)
+
 
 
