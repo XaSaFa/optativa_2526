@@ -39,4 +39,5 @@ Ara per arrencar el programa obrim un terminal i escrivim **code** o a Aplicacio
 - [Currículum](cv.md)
 - [Activitat de formularis](activitat_formularis_1.md)
 - [Activitat multimedia](activitat_multimedia1.md)
+- [Activitat colors](activitat_colors.md)
 
