@@ -22,11 +22,16 @@ Ara per arrencar el programa obrim un terminal i escrivim **code** o a Aplicacio
 
 - [Introducció a HTML](intro_html.md)
   - [Codi per ficar vora a les taules](border.md)
+  - [Activitats inicials](a1.md)
 - [Links](links.md)
 - [Imatges](img.md)
+  - [Activitat Currículum](cv.md)
 - [Mapa d'imatges](map.md)
+  - [Activitat mapa d'imatges](activitat_mapa.md)
 - [Llistes (avançades)](llistes.md)
+  - [Llistes grup B](llistesb.md)
 - [formularis](forms.md)
+  - [Activitat de formularis](activitat_formularis_1.md)
 - [Audio, video i multimedia](multimedia.md)
   - [Activitat multimedia](activitat_multimedia1.md)
 
@@ -34,15 +39,12 @@ Ara per arrencar el programa obrim un terminal i escrivim **code** o a Aplicacio
 - [Inserir CSS a una pàgina web](inserir_css.md)
 - [Colors](colors.md)
   - [Activitat colors](activitat_colors.md)
- 
 
-## Activitats
-- [Activitats inicials](a1.md)
-- [Activitat mapa d'imatges](activitat_mapa.md)
-- Llistes
-  - [Llistes grup B](llistesb.md)
-- [Currículum](cv.md)
-- [Activitat de formularis](activitat_formularis_1.md)
+
+
+
+
+
 
 
 
