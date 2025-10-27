@@ -39,6 +39,11 @@ Ara per arrencar el programa obrim un terminal i escrivim **code** o a Aplicacio
 - [Inserir CSS a una pàgina web](inserir_css.md)
 - [Colors](colors.md)
   - [Activitat colors](activitat_colors.md)
+- [Selectors](selectors.md)
+- [Background](background.md)
+- [Border](borders.md)
+- [Margin i padding](margins.md)
+- [Format de text](text_format.md)
 
 
 
