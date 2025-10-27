@@ -40,6 +40,7 @@ Ara per arrencar el programa obrim un terminal i escrivim **code** o a Aplicacio
 - [Colors](colors.md)
   - [Activitat colors](activitat_colors.md)
 - [Selectors](selectors.md)
+  - [Activitat selectors - corregim a classe](activitat_selectors.md)
 - [Background](background.md)
 - [Border](borders.md)
 - [Margin i padding](margins.md)
