@@ -28,7 +28,7 @@ body {
 
 [Exemple web](https://www.w3schools.com/css/tryit.asp?filename=trycss_background-color_body)
 
-Però podem fer que cada element del web tingui un color de fons diferente:
+Però podem fer que cada element del web tingui un color de fons diferent:
 
 ```
 <!DOCTYPE html>
