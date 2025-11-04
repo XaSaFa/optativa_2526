@@ -42,6 +42,7 @@ Ara per arrencar el programa obrim un terminal i escrivim **code** o a Aplicacio
 - [Selectors](selectors.md)
   - [Activitat selectors - corregim a classe](activitat_selectors.md)
 - [Background](background.md)
+  - [Activitat imatges](activitat_imatges.md) 
 - [Border](borders.md)
 - [Margin i padding](margins.md)
 - [Format de text](text_format.md)
