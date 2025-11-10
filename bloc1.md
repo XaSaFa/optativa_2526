@@ -44,7 +44,7 @@ Ara per arrencar el programa obrim un terminal i escrivim **code** o a Aplicacio
 - [Background](background.md)
   - [Activitat imatges](activitat_imatges.md) 
 - [Border](borders.md)
-  - [Activitat Vores](activitat_vores.md) 
+  - [Activitat Vores - corregim a classe](activitat_vores.md) 
 - [Margin i padding](margins.md)
 - [Format de text](text_format.md)
 
