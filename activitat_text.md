@@ -2,7 +2,7 @@
 
 
 ## 1. Alineació del text
-- 1.1 text-align
+- 1,1 text-align
   - Crea un <h1> alineat al centre.
   - Alinea un paràgraf <p> a la dreta.
   - Crea tres paràgrafs i aplica:
