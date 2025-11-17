@@ -46,6 +46,7 @@ Ara per arrencar el programa obrim un terminal i escrivim **code** o a Aplicacio
 - [Border](borders.md)
   - [Activitat Vores - corregim a classe](activitat_vores.md) 
 - [Margin i padding](margins.md)
+  - [Exercici classe vores i padding](exercici_vores.md)
 - [Format de text](text_format.md)
   - [Activitat text - corregim a classe](activitat_text.md) 
 
