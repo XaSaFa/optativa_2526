@@ -2,9 +2,9 @@
 
 
 ## 1. Alineació del text
-- 1,1 text-align
-  - Crea un <h1> alineat al centre.
-  - Alinea un paràgraf <p> a la dreta.
+- 1.1 text-align
+  - Crea un ```<h1>``` alineat al centre.
+  - Alinea un paràgraf ```<p>``` a la dreta.
   - Crea tres paràgrafs i aplica:
     - El primer alineat a l’esquerra.
     - El segon centrat.
@@ -16,7 +16,7 @@
   - Escriu una frase i mostra-la amb lectura de dreta a esquerra.
   - Alterna dos paràgrafs: un amb rtl i l’altre amb ltr i compara visualment els resultats.
 - 1.4 vertical-align
-  - Crea tres <span> amb diferents mides i aplica vertical-align per aconseguir:
+  - Crea tres ```<span>``` amb diferents mides i aplica vertical-align per aconseguir:
     - top
     - middle
     - bottom
