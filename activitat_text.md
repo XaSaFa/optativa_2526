@@ -29,7 +29,7 @@
     - line-through
     - cap decoració (none)
 - 2.2. text-decoration-color
-  - Aplica un underline de color blau a un <h2>.
+  - Aplica un underline de color blau a un ```<h2>```.
   - Aplica un line-through de color vermell a un paràgraf.
 - 2.3. text-decoration-style
   - Crea una llista de 5 ítems i aplica a cadascun:
@@ -62,8 +62,8 @@
 
 # 5. Ombres de text (text-shadow)
 
-- Fes un <h1> amb una ombra negra subtil (2px 2px).
-- Fes un <h2> amb ombra vermella i difuminada (blur de 5px).
+- Fes un ```<h1>``` amb una ombra negra subtil (2px 2px).
+- Fes un ```<h2>``` amb ombra vermella i difuminada (blur de 5px).
 - Fes un text amb dues ombres:
   - una llima
   - una vermella
