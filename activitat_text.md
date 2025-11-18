@@ -4,11 +4,11 @@
 ## 1. Alineació del text
 - 1.1 text-align
   - Crea un ```<h1>``` alineat al centre.
-  - Alinea un paràgraf ```<p>``` a la dreta.
-  - Crea tres paràgrafs i aplica:
-    - El primer alineat a l’esquerra.
-    - El segon centrat.
-    - El tercer justificat.
+  - Crea quatre paràgrafs i aplica:
+    - Alinea un paràgraf ```<p>``` a la dreta.
+    - El segon alineat a l’esquerra.
+    - El tercer centrat.
+    - El quart justificat.
 - 1.2 text-align-last
   - Fes un paràgraf llarg i fes que totes les línies estiguin justificades però l’última centrada.
   - Crea un altre paràgraf amb text-align-last: right.
