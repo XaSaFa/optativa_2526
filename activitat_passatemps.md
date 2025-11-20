@@ -2,6 +2,8 @@
 
 En aquesta activitat faràs una pàgina web de passatemps utilitzant HTML i **CSS INTERN**.
 
+Per canviar el tamany de la font del text heu de fer servir la propietat CSS font-size, per exemple ```font-size:40px;```.
+
 La web tindrà els següents apartats:
 
 - Capçalera amb el títol "Passatemps de X", on X és el teu cognom.
