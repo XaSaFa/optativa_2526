@@ -49,7 +49,7 @@ Ara per arrencar el programa obrim un terminal i escrivim **code** o a Aplicacio
   - [Exercici classe vores i padding](exercici_vores.md)
 - [Format de text](text_format.md)
   - [Activitat text - corregim a classe](activitat_text.md) 
-
+- [Activitat sudokus](activitat_passatemps.md)
 
 
 
