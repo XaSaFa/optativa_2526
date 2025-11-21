@@ -82,7 +82,7 @@ Exemple:
 Exemples: 50% de transparència.
 
 ```
-style="background: rgb(0, 128, 0,0.5);"
+style="background: rgba(0, 128, 0,0.5);"
 ```
 
 ![image](https://user-images.githubusercontent.com/110727546/217009682-8736fd7c-5ae0-45eb-b929-92a5a1d63df6.png)
