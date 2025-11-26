@@ -6,4 +6,5 @@
 - [Variables](variables.md)
   - [Problemes senzills de variables i print](prob1.md)
   - [Canvi de tipus de variables (casting)](https://www.w3schools.com/python/python_casting.asp)
-  - [Problemes senzills de variables i input](prob2.md) 
+  - [Problemes senzills de variables i input](prob2.md)
+  - [Strings o cadenes de text](strings.md)
