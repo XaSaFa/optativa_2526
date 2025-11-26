@@ -94,6 +94,42 @@ print(frase)
 
 🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎
 
+## Índex als strings:
+
+Els strings són un tipus de variables especials perquè cada caràcter d'una variable string es manipular de forma independent, coneixent el seu índex, és a dir, la seva posició dins de la cadena de text començant per la posició 0.
+
+Exemple 1:
+
+```
+n =  "Hola"
+print(n[0])
+```
+
+Donarà com a resultat la posició 0 (primera posició) de "Hola", és a dir la lletra H.
+
+Exemple 2:
+
+```
+n =  "Hola"
+print(n[3])
+```
+
+Donarà com a resultat la posició 3 (quarta posició) de "Hola", és a dir la lletra a.
+
+🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎
+
+**Activitats:**
+
+1. Demana una paraula i mostra el quart caràcter.
+2. Demana una frase i mostra només els caràcters de la posició 2 a la 5.
+3. Demana una paraula i mostra l’últim caràcter utilitzant len() per calcular l’índex.
+4. Demana una paraula i mostra el penúltim caràcter utilitzant len() menys 2.
+5. Demana una paraula i mostra la primera i l’última lletra concatenades.
+6. Demana una paraula i canvia la primera lletra per una altra introduïda per l’usuari, després mostra el resultat per pantalla.
+
+🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎
+
+
 ## Tallar strings:
 
 Un array es pot retallar entre dues posicions, per exemple si tenim la paraula "desesperança", la podem retallar així:
@@ -116,6 +152,20 @@ O amb:
 paraula = "desesperança"
 print (paraula[3:len(paraula)])
 ```
+
+🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎
+
+**Activitats:**
+
+1. Demana una paraula i mostra tots els caràcters a partir de la posició 2 fins al final.
+2. Demana una paraula i mostra només els caràcters de la posició 1 a la 5.
+3. Demana una paraula i mostra els tres primers caràcters.
+4. Demana una paraula i mostra tots els caràcters excepte els dos primers.
+5. Demana una paraula i mostra tots els caràcters excepte els tres últims.
+6. Demana una paraula i mostra els caràcters de la posició 3 fins al final utilitzant len() per calcular la longitud.
+
+🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎🔎
+
 
 ## Escapar caràcters:
 
