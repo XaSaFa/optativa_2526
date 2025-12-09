@@ -8,3 +8,9 @@
   - [Canvi de tipus de variables (casting)](https://www.w3schools.com/python/python_casting.asp)
   - [Problemes senzills de variables i input](prob2.md)
   - [Strings o cadenes de text](strings.md)
+  - Operadors:
+    - [Operadors matemàtics](operadors1.md)
+    - [Operadors d'assignació](operadors2.md)
+    - [Operadors de comparació](operadors3.md)
+    - [Operadors lògics](operadors4.md)
+        
