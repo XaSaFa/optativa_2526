@@ -14,4 +14,6 @@
     - [Operadors de comparació](operadors3.md)
     - [Operadors lògics](operadors4.md)
 - [Programació estructurada](prog_estructurada.md)
-    - [Selecció](seleccio.md) 
+    - [Selecció](seleccio.md)
+    - Bucles:
+      - [While](while.md)
