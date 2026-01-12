@@ -17,3 +17,4 @@
     - [Selecció](seleccio.md)
     - Bucles:
       - [While](while.md)
+    - [Números aleatoris](aleatori.md)
