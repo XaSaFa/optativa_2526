@@ -17,4 +17,5 @@
     - [Selecció](seleccio.md)
     - Bucles:
       - [While](while.md)
+        - [vídeo tutorial while](https://www.youtube.com/watch?v=fU9ye1tYpQ0)
     - [Números aleatoris](aleatori.md)
