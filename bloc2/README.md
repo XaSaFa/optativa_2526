@@ -20,5 +20,6 @@
         - [vídeo tutorial while](https://www.youtube.com/watch?v=fU9ye1tYpQ0)
       - [For](for.md)
     - [Funcions](funcions.md)
-    - [Números aleatoris](aleatori.md)
+  - [Números aleatoris](aleatori.md)
+  - [Arrays i llistes](llistes.md)
       
