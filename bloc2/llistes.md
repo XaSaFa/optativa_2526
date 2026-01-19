@@ -11,6 +11,8 @@ comunitat = ["Gandalf", "Legolas", "Gimli","Aragorn","Merry","Pippin","Frodo","S
 print(comunitat)
 ```
 
+<img width="600" src="https://github.com/user-attachments/assets/46772ac0-96c0-4f96-b094-2db8d77d5ff8" />
+
 ## Accedir a un element individual d'un array:
 
 Aquest array té 9 elements diferents, per exemple, el primer element "Gandalf" és accessible com comunitat[0]:
