@@ -23,4 +23,5 @@
   - [Números aleatoris](aleatori.md)
   - [Arrays i llistes](llistes.md)
   - [Exemple programa gestió de llista](llista.py)
+    - [Exercici Llistes](exercici_llistes.md)
       
