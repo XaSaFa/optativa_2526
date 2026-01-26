@@ -22,4 +22,5 @@
     - [Funcions](funcions.md)
   - [Números aleatoris](aleatori.md)
   - [Arrays i llistes](llistes.md)
+  - [Exemple programa gestió de llista](llistes.py)
       
