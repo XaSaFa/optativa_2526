@@ -27,3 +27,10 @@ Busca la manera de que el programa guardi també el preu d'un producte i es pugu
 Busca la manera de que el programa guardi també la quantitat que hi ha de cada producte i aquesta es pugui modificar.
 
 Mostra el valor total de l'estocatge de productes.
+
+# Puntuació:
+
+- Exercici bàsic: 5 punts.
+- Extra: 2,5 punts.
+- Extra 2: 2,5 punts.
+
