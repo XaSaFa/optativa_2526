@@ -4,6 +4,7 @@
 
 - [Bloc 1 - Fonaments d’HTML i fulls d’estils.](bloc1.md)
 - [Bloc 2 - Introducció a Python.](bloc2/README.md)
+- [Bloc 3 - Pygame.](bloc3/README.md)
 
 
 
