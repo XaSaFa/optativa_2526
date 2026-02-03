@@ -17,7 +17,6 @@ El següent programa fica el color CYAN de fons:
 
 ```
 import pygame, sys
-from pygame.locals import *
 
 AMPLE = 600
 ALT = 600
@@ -29,7 +28,7 @@ pantalla = pygame.display.set_mode(TAMANY)
 pygame.display.set_caption('Color de fons')
 while True: # main game loop
     for event in pygame.event.get():
-        if event.type == QUIT:
+        if event.type == pygame.QUIT:
             pygame.quit()
             sys.exit()
 
