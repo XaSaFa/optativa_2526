@@ -158,3 +158,10 @@ pygame.draw.circle(pantalla, VERMELL, (300,300),100,5)
 ## Poligon:
 
 ![image](https://github.com/XaSaFa/IntroduccioProgramacio/assets/110727546/d16dbdbc-a666-42c3-80a4-767e8b8f38b4)
+
+# Activitats:
+
+1. Fes un programa que dibuixi aquesta forma:
+
+<img width="602" height="632" alt="imatge" src="https://github.com/user-attachments/assets/4abd3eb5-7e75-4e15-b2f0-5e02b6bddf48" />
+
