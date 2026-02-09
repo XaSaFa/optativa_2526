@@ -9,5 +9,5 @@
 
 # Activitats
 
-3.1. [Activitat de creació de finestres - 5%](activitat31.md)
-3.2. [Activitat de dibuix de formes bàsiques en pygame - 5%](activitat2.md)
+1. [Activitat de creació de finestres - 5%](activitat31.md)
+2. [Activitat de dibuix de formes bàsiques en pygame - 5%](activitat2.md)
