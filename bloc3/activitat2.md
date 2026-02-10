@@ -6,13 +6,13 @@ Utilitzant formes de pygame has de dibuixar un paisatge amb una casa, et pots in
 
 Heu d'escollir colors adequats.
 
-De moment tens un 10 cada element que no surti al dibuix resta punts:
+De moment tens un 10, cada element que no surti al dibuix resta punts:
 
-- Casa amb porta, finestres i sostre: 3 punts.
-- Persones: 2 punts.
-- Arc de Sant Martí: 2 punts.
-- Núvols: 1 punt.
-- Sol: 1 punt.
-- Herba: 1 punt.
+- Casa amb porta, finestres i sostre: -3 punts.
+- Persones: -2 punts.
+- Arc de Sant Martí: -2 punts.
+- Núvols: -1 punt.
+- Sol: -1 punt.
+- Herba: -1 punt.
 
 Si detecto la utilització d'una IA tens -10 punts.
