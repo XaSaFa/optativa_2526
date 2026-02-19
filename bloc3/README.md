@@ -11,3 +11,4 @@
 
 1. [Activitat de creació de finestres - 5%](activitat31.md)
 2. [Activitat de dibuix de formes bàsiques en pygame - 5%](activitat2.md)
+3. [Concurs de dibuix de personatge - 5%](concurs.md)
