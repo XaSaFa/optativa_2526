@@ -5,6 +5,7 @@
   - [Exemple programa que pregunta a l'usuari valors i dibuixa la finestra](exemple1.py)
 3. [Colors](colors.md)
 4. [Formes](formes.md)
+5. [Text](text.md)
 
 
 # Activitats
