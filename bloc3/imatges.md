@@ -26,8 +26,8 @@ while True:
     for event in pygame.event.get():
         if event.type == pygame.QUIT:
             pygame.quit()
-        pantalla.blit(orc, (0, 0))
-        pygame.display.update()
+    pantalla.blit(orc, (0, 0))
+    pygame.display.update()
 ```
 
 # Imatge al mig de la pantalla
@@ -49,8 +49,8 @@ while True:
     for event in pygame.event.get():
         if event.type == pygame.QUIT:
             pygame.quit()
-        pantalla.blit(orc, (AMPLADA/2-amplada_orc/2,ALTURA/2-altura_orc/2))
-        pygame.display.update()
+    pantalla.blit(orc, (AMPLADA/2-amplada_orc/2,ALTURA/2-altura_orc/2))
+    pygame.display.update()
 ```
 
 Si volem que la imatge estigui a una altra posició hem de canviar les coordenades a la línia ```pantalla.blit(orc, (0, 0))```
