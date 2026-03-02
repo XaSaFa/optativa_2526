@@ -8,13 +8,15 @@ Utilitzant el que saps fer fins ara fes una copia de les imatges següents.
 
 Amb formes i text fes aquesta senyal de tràfic
 
-<img width="802" height="299" alt="image" src="https://github.com/user-attachments/assets/e88f463a-3066-48b7-9a90-dc8ecd5047c7" />
+<img width="2020" height="2020" alt="image" src="https://github.com/user-attachments/assets/4c84d43b-8bd4-4a44-9d33-2f3a625e531c" />
+
 
 ## 2 - Senyal de STOP (1 punt)
 
 Amb formes i text fes aquesta senyal de tràfic
 
-<img width="802" height="299" alt="image" src="https://github.com/user-attachments/assets/78fde650-1932-406a-8720-9d1138ebe7aa" />
+<img width="650" height="650" alt="image" src="https://github.com/user-attachments/assets/18fc63d3-67a6-4686-8a9b-b3953cd1e5a9" />
+
 
 ## 3 - Menú de joc (3 punts)
 
