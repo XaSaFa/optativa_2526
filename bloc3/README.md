@@ -7,6 +7,8 @@
 4. [Formes](formes.md)
 5. [Text](text.md)
 6. [Imatges](imatges.md)
+7. [So](so.md)
+8. [FPS](fps.md)
 
 
 # Activitats
