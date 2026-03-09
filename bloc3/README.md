@@ -20,6 +20,6 @@
 
 # Projecte
 
-A. Dibuixar una nau protagonista (64x64 pixels), una bala petita (10x10) i una nau enemiga (64x64).
+A. Dibuixar una nau protagonista (64x64 pixels) i una nau enemiga (64x64).
 <img width="624" height="280" alt="image" src="https://github.com/user-attachments/assets/33e7ea25-ea15-4725-94f2-868072076078" />
 
