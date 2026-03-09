@@ -10,7 +10,7 @@ Mixer serveix per sons i mixer.music és més aviat per a tenir una música de f
 
 ## Exemple
 
-Agafem per exemple aquesta cançó en mp3 - [Música](music.mp3).
+Agafem per exemple aquesta cançó en mp3 - [Música](https://github.com/XaSaFa/Python24-25/blob/main/arcade/music.mp3).
 
 Podem crear un programa que reproduceixi la cançó d'aquesta manera:
 
