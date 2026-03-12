@@ -39,14 +39,14 @@ while True:
         if event.type == pygame.QUIT:
             pygame.quit()
 
-        # keys guarda quines tecles estan pulsades
-        keys = pygame.key.get_pressed()
-        # si hem presionat a anem a l'esquerra
-        if keys[K_a]:
-            nau1_x -= nau1_velocitat
-        # si hem presionat d anem a la dreta
-        if keys[K_d]:
-            nau1_x += nau1_velocitat
+    # keys guarda quines tecles estan pulsades
+    keys = pygame.key.get_pressed()
+    # si hem presionat a anem a l'esquerra
+    if keys[K_a]:
+        nau1_x -= nau1_velocitat
+    # si hem presionat d anem a la dreta
+    if keys[K_d]:
+        nau1_x += nau1_velocitat
 
 
     # Omplo la pantalla de color magenta:
