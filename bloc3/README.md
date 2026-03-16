@@ -10,6 +10,7 @@
 7. [So](so.md)
 8. [FPS](fps.md)
 9. [Exemple nau i meteorit](exemple_nau_meteorit.py)
+  -  [Exemple grup A](exemple_basic_a.py)
 
 
 # Activitats
