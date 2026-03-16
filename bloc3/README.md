@@ -19,7 +19,7 @@
       - Meteorits diferents (velocitat, forma, més de un meteorit a la vegada).
       - Col·lisions.
      
-
+10. [Classes](classes.md)
 
 # Activitats
 
@@ -30,6 +30,15 @@
 
 # Projecte
 
-A. Dibuixar una nau protagonista (64x64 pixels), un meteorit de 64x64 i una nau enemiga (64x64).
+A. Dibuixar:
+- una nau protagonista (64x64 pixels)
+- un meteorit de 64x64
+- una nau enemiga (64x64)
+- una pantalla de presentació de 640x480
+- una pantalla de Game Over de 640x480
+- una pantalla de fons del joc de 640x480
+
+
+
 <img width="624" height="280" alt="image" src="https://github.com/user-attachments/assets/33e7ea25-ea15-4725-94f2-868072076078" />
 
