@@ -11,6 +11,7 @@
 8. [FPS](fps.md)
 9. [Exemple nau i meteorit](exemple_nau_meteorit.py)
   -  [Exemple grup A](exemple_basic_a.py)
+  -  
     -  Art: (Pantalla presentació, pantalla game over, imatges de vides)
     - Pendent:
       - Pantalla de presentació.
