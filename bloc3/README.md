@@ -18,6 +18,7 @@
       - No sortir de la pantalla.
       - Meteorits diferents (velocitat, forma, més de un meteorit a la vegada).
       - Col·lisions.
+  - [Exemple amb col·lisions](exemple_amb_colisions.py)
      
 10. [Classes](classes.md)
 
