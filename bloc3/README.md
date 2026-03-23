@@ -29,6 +29,7 @@
 2. [Activitat de dibuix de formes bàsiques en pygame - 5%](activitat2.md)
 3. [Concurs de dibuix de personatge - 5%](concurs.md)
 4. [Activitat text-imatges-formes - 5%](activitat4.md)
+5. [Activitat joc meteor](activitat_meteor.md)
 
 # Projecte
 
