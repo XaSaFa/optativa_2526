@@ -24,7 +24,7 @@ class Joc:
             self.mostrar_pantalla_joc()
 
     def preparar_partida(self):
-
+        self.meteors.clear()
         # generar els meteors
         for i in range (self.numero_meteors):
             meteor_aux = Meteor('assets/meteor.png',0,0,0)
