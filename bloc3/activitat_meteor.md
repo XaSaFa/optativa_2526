@@ -2,14 +2,14 @@
 
 Heu de completar el joc fet a [classe](joc_meteorits_amb_classes.py), afegint:
 
-1. Pantalla de presentació:
+1. Pantalla de presentació (30%):
   - Es mostra la imatge de pantalla de presentació.
   - La pantalla de presentació té una música.
   - S'avisa a l'usuari que ha de presionar una tecla per començar el joc.
-2. Pantalla de joc:
+2. Pantalla de joc (40%):
   - La pantalla de joc té una música diferent.
   - Cada col·lisió dispara un so d'explosió.
-3. Pantalla de Game Over:
+3. Pantalla de Game Over (30%):
   - Es mostra la imatge de pantalla de Game Over.
   - La pantalla de Game Over té una música diferent.
   - S'avisa a l'usuari que ha de presionar una tecla per començar el joc.
