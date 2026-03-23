@@ -21,6 +21,7 @@
   - [Exemple amb col·lisions](exemple_amb_colisions.py)
      
 10. [Classes](classes.md)
+  - [Joc meteorits amb classes](joc_meteorits_amb_classes.py)
 
 # Activitats
 
