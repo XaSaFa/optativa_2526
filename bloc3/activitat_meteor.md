@@ -1,5 +1,7 @@
 # Completar el joc dels meteors
 
+Heu de completar el joc fet a [classe](joc_meteorits_amb_classes.py), afegint:
+
 1. Pantalla de presentació:
   - Es mostra la imatge de pantalla de presentació.
   - La pantalla de presentació té una música.
