@@ -31,6 +31,7 @@
 3. [Concurs de dibuix de personatge - 5%](concurs.md)
 4. [Activitat text-imatges-formes - 5%](activitat4.md)
 5. [Activitat joc meteor - 5%](activitat_meteor.md)
+6. [Activitat joc meteors utilitzant classes - 5%](activitat_meteor2.md)
 
 # Projecte
 
