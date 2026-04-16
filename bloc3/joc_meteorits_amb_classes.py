@@ -16,6 +16,72 @@ import pygame
 import time
 from pygame.locals import *
 
+# =============================================================================
+# CLASSE Bala
+# Representa cada bala disparada per la nau.
+# =============================================================================
+class Bala:
+
+    def __init__(self, imatge, velocitat, pos_x, pos_y):
+        """
+        Constructor: s'executa automàticament quan creem un Meteor amb Meteor(...).
+        Inicialitza tots els atributs (característiques) del meteorit.
+
+        Paràmetres:
+            imatge    -- ruta de la imatge del meteorit
+            velocitat -- velocitat de caiguda inicial
+            pos_x     -- posició horitzontal inicial
+            pos_y     -- posició vertical inicial
+        """
+        # Guardem la ruta de la imatge
+        self.imatge = imatge
+
+        # Velocitat de caiguda (píxels per fotograma)
+        self.velocitat = velocitat
+
+        # Posició actual del meteorit
+        self.x = pos_x
+        self.y = pos_y
+
+        # Carreguem la imatge des del disc
+        self.img_meteor = pygame.image.load(self.imatge)
+
+        # El "rect" és el rectangle que envolta la imatge.
+        # S'utilitza per detectar col·lisions i per dibuixar.
+        # midbottom vol dir que (x, y) és el centre inferior del rectangle.
+        self.rect_meteor = self.img_meteor.get_rect(midbottom=(self.x, self.y))
+
+    def reiniciar(self):
+        pass
+
+    def moure(self):
+        """
+        Mou el meteorit cap avall un pas (segons la seva velocitat).
+        Actualitza també el rectangle per mantenir-lo sincronitzat amb la posició.
+        """
+        # Cada fotograma, el meteorit baixa "velocitat" píxels
+        self.y -= self.velocitat
+
+        # Actualitzem el rectangle perquè coincideixi amb la nova posició
+        self.rect_meteor = self.img_meteor.get_rect(midbottom=(self.x, self.y))
+
+    def ha_sortit_per_baix(self):
+        """
+        Comprova si el meteorit ha sortit per la part inferior de la pantalla.
+        Retorna True si ha sortit, False si encara és visible.
+        """
+        return self.y >= 480
+
+    def puntuar_i_reiniciar(self):
+        """
+        Si el meteorit ha sortit per baix, dona punts i el reinicia.
+        Retorna els punts guanyats (5 si ha sortit, 0 si no).
+        """
+        if self.ha_sortit_per_baix():
+            self.reiniciar()
+            return 5  # El jugador guanya 5 punts per cada meteorit esquivat
+        return 0  # Si no ha sortit, no hi ha punts
+
 
 # =============================================================================
 # CLASSE METEOR
@@ -139,6 +205,8 @@ class Nau:
         self.y = 460
         self.rect = self.img.get_rect(midbottom=(self.x, self.y))
         self.vides = self.vides_originals
+        # Llista buida de bales
+        self.bales = []
 
     def moure(self, pantalla_rect):
         """
@@ -167,8 +235,18 @@ class Nau:
         if keys[K_s] or keys[K_DOWN]:
             self.rect.y += self.velocitat
 
+        # # Dispara amb la tecla M
+        # if keys[K_m]:
+        #     self.disparar()
+
+
         # clamp_ip fa que la nau no pugui sortir dels límits de la pantalla
         self.rect.clamp_ip(pantalla_rect)
+
+    def disparar(self):
+        bala1 = Bala("assets/bala.png", 5, self.rect.x+self.rect.width/2, self.rect.y)
+        self.bales.append(bala1)
+        print(self.bales)
 
     def restar_vida(self):
         """
@@ -225,6 +303,8 @@ class Joc:
 
         # Llista buida de meteorits (es creen a preparar_partida)
         self.meteors = []
+
+
 
         # Puntuació del jugador
         self.punts = 0
@@ -333,12 +413,14 @@ class Joc:
             # 3. Actualitzem la posició de tots els elements
             self.nau.moure(self.pantalla.get_rect())
             self._moure_meteors()
+            self._moure_bales()
 
             # 4. Comprovem si algun meteorit ha xocat amb la nau
             self._control_colisions()
 
             # 5. Dibuixem tots els elements a la pantalla
             self._dibuixar_meteors()
+            self._dibuixar_bales()
             self._dibuixar_nau()
             self._dibuixar_vides()
             self._dibuixar_punts()
@@ -390,6 +472,8 @@ class Joc:
             if event.type == pygame.QUIT:
                 pygame.quit()
                 exit()
+            if event.type == pygame.KEYDOWN and event.key == K_m:
+                self.nau.disparar()
 
     def _moure_meteors(self):
         """
@@ -399,6 +483,15 @@ class Joc:
             meteor.moure()
             # Si el meteorit surt per baix, puntuar_i_reiniciar el reinicia i retorna punts
             self.punts += meteor.puntuar_i_reiniciar()
+
+    def _moure_bales(self):
+        """
+        Mou totes les bales cap amunt.
+        """
+        for bala in self.nau.bales:
+            bala.moure()
+            # Si el meteorit surt per baix, puntuar_i_reiniciar el reinicia i retorna punts
+
 
     def _control_colisions(self):
         """
@@ -410,6 +503,11 @@ class Joc:
             if meteor.rect_meteor.colliderect(self.nau.rect):
                 meteor.reiniciar()      # El meteorit torna a dalt
                 self.nau.restar_vida()  # La nau perd una vida
+            for bala in self.nau.bales:
+            # colliderect comprova si dos rectangles es superposen
+                if bala.rect_meteor.colliderect(meteor.rect_meteor):
+                    meteor.reiniciar()  # El meteorit torna a dalt
+                    bala.reiniciar()
 
     # -------------------------------------------------------------------------
     # DIBUIX DELS ELEMENTS
@@ -422,6 +520,14 @@ class Joc:
         for meteor in self.meteors:
             # blit dibuixa una imatge sobre la pantalla
             self.pantalla.blit(meteor.img_meteor, meteor.rect_meteor)
+
+    def _dibuixar_bales(self):
+        """
+        Dibuixa tots els meteorits a la pantalla en la seva posició actual.
+        """
+        for bala in self.nau.bales:
+            # blit dibuixa una imatge sobre la pantalla
+            self.pantalla.blit(bala.img_meteor, bala.rect_meteor)
 
     def _dibuixar_nau(self):
         """
@@ -481,6 +587,6 @@ partida = Joc(
     ample=640,
     alt=480,
     fps=60,
-    nombre_meteors=4
+    nombre_meteors=20
 )
 partida.iniciar_joc()
