@@ -23,6 +23,7 @@
      
 10. [Classes](classes.md)
   - [Joc meteorits amb classes](joc_meteorits_amb_classes.py)
+  - [Classes Star i Starfield](stars.py)
 
 # Activitats
 
