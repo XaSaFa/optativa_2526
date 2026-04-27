@@ -33,6 +33,7 @@
 4. [Activitat text-imatges-formes - 5%](activitat4.md)
 5. [Activitat joc meteor - 5%](activitat_meteor.md)
 6. [Activitat joc meteors utilitzant classes - 5%](activitat_meteor2.md)
+7. Joc final (Galaga grup A, Pong grup B) - 40%
 
 # Projecte
 
