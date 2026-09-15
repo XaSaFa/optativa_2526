@@ -16,7 +16,7 @@ Actualment anem per la versió 5 de HTML.
 
 ### D'on surgeix HTML?
 
-![Tim](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Tim_Berners-Lee.jpg/220px-Tim_Berners-Lee.jpg)
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/98e56907-4b5f-4ab0-93eb-22345ab458b8" />
 
 **Tim Berners-Lee** va ser el creador del primer navegador web a 1990 anomenat **worldwideweb** utilitzant el sistema NEXTSTEP i del primer servidor web anomenat **httpd** (HyperText Transfer Protocol Daemaon).
 
